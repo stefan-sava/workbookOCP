@@ -1,4 +1,4 @@
-package ch13.school;
+package ch13.ex3;
 
 import java.util.Scanner;
 
